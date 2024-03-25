@@ -10,3 +10,4 @@ https://docs.readthedocs.io/en/stable/tutorial/
 
 Arena Documentation
 ===================
+This is the documentation for Arena
